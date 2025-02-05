@@ -87,3 +87,8 @@ googlemock/gtest
 /CMakeCache.txt
 /ALL_BUILD.vcxproj.filters
 /ALL_BUILD.vcxproj
+
+# macOS files
+.DS_Store
+googletest/.DS_Store
+googletest/xcode/.DS_Store
